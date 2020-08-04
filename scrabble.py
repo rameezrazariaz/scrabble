@@ -43,5 +43,5 @@ def play_word():
 
 play_word()
 
-print(player_to_words)
+#print(player_to_words)
 print(player_to_points)
